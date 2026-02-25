@@ -27,5 +27,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
 🌟 About Me
 Hi there! I'm Andres, a Data Analyst and BI Specialist with a background in Business Economics from Solvay Business School and currently pursuing a Master's in Business Intelligence and Analytics at OBS Business School in Barcelona. I'm passionate about transforming raw data into actionable insights that drive strategic decision-making. I created this repository as part of my portfolio to showcase industry best practices in data warehousing and analytics — feel free to explore, fork, and connect!
